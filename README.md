@@ -23,7 +23,7 @@ In order to get access to the project, you need to follow these three simple ste
 ### python manage.py runserver
 
 ### Step-2:
-*Once you land here http://127.0.0.1:8000/, then type /admin/
+*Once you land here http://127.0.0.1:8000/, then type /admin/*
 #### http://127.0.0.1:8000/admin/
 
 ### Step-3:
